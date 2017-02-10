@@ -12,7 +12,8 @@
   "author": "Senica Gonzalez",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.5.5"
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
   },
   "devDependencies": {},
   "repository": {
