@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server instance...mimic Apache/PHP",
+  "main": "index.js",
+  "bin": {
+    "server": "bin/index.js"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Senica Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senica/node-dev.git"
+  },
+  "keywords": [
+    "express",
+    "prototyping",
+    "routes"
+  ],
+  "bugs": {
+    "url": "https://github.com/senica/node-dev/issues"
+  },
+  "homepage": "https://github.com/senica/node-dev#readme"
+}
